@@ -50,4 +50,4 @@
 ![image](https://user-images.githubusercontent.com/76069143/138357466-06edda95-c84b-4774-8287-1fe4e0e5cda0.png)
 
 ## Архивирование и разархивирование файлов
-![image](https://user-images.githubusercontent.com/76069143/138357677-75da844b-59cf-4554-b0fe-584e14e9fc86.png)
+
