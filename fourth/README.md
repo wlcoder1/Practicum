@@ -7,7 +7,7 @@
 #### Производим общение через сервер 
 ![image](https://user-images.githubusercontent.com/76069143/138527092-f5e268b4-13aa-48ab-bac6-6bd287aa94af.png)
 #### Данные хранятся в таком формате
-![image](https://user-images.githubusercontent.com/76069143/138527217-c7bae2cd-5b56-4ad3-aaff-e208d9da6714.png)
+![image](https://user-images.githubusercontent.com/76069143/138527848-48edea81-2d85-4dce-ad0d-58f78adc9e38.png)
 #### Отключение сервера (завершение программы);
 ![image](https://user-images.githubusercontent.com/76069143/138527398-8c8a7a16-f502-4072-8d1e-26d47f599c08.png)
 #### Пауза (остановка прослушивание порта);
