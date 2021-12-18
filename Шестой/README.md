@@ -11,7 +11,7 @@
 #### При запуске формата не из списков разрешенний, то выводится ошибка 404
 ![image](https://user-images.githubusercontent.com/76069143/146624735-ac310d7e-cd75-4821-b319-6a46bffc4488.png)
 #### При запуске файла, которого нет в директории, то выводится ошибка 403
-![image](https://user-images.githubusercontent.com/76069143/146624802-c4396870-41b2-4692-82da-48c746cf20ab.png)
+![image](https://user-images.githubusercontent.com/76069143/146625045-444faaf5-10ae-47a6-9c41-690f868c55b1.png)
 #### Все наши входы на сайт записываются в файл "Вход", который создается автоматически
 ![image](https://user-images.githubusercontent.com/76069143/146624983-d2714fe0-79e9-43af-af6a-6942f2bd1274.png)
 
