@@ -1,0 +1,66 @@
+Date: Sat, 18 Dec 2021 04:20:46 GTM
+Addr: ('127.0.0.1', 65057)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\index.html
+Date: Sat, 18 Dec 2021 04:20:46 GTM
+Addr: ('127.0.0.1', 65058)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:21:08 GTM
+Addr: ('127.0.0.1', 65059)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\index.html
+Date: Sat, 18 Dec 2021 04:21:09 GTM
+Addr: ('127.0.0.1', 65121)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:28:28 GTM
+Addr: ('127.0.0.1', 63829)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\image.gif
+Date: Sat, 18 Dec 2021 04:28:28 GTM
+Addr: ('127.0.0.1', 63830)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:29:19 GTM
+Addr: ('127.0.0.1', 63862)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\image.png
+Date: Sat, 18 Dec 2021 04:29:19 GTM
+Addr: ('127.0.0.1', 63863)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:29:45 GTM
+Addr: ('127.0.0.1', 63884)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:29:45 GTM
+Addr: ('127.0.0.1', 63885)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:29:57 GTM
+Addr: ('127.0.0.1', 63894)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\image.jpg
+Date: Sat, 18 Dec 2021 04:29:57 GTM
+Addr: ('127.0.0.1', 63895)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:30:56 GTM
+Addr: ('127.0.0.1', 63942)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:30:56 GTM
+Addr: ('127.0.0.1', 63943)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:31:22 GTM
+Addr: ('127.0.0.1', 63958)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:31:23 GTM
+Addr: ('127.0.0.1', 63959)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:31:52 GTM
+Addr: ('127.0.0.1', 63999)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:31:52 GTM
+Addr: ('127.0.0.1', 64000)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:34:34 GTM
+Addr: ('127.0.0.1', 64113)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:34:34 GTM
+Addr: ('127.0.0.1', 64114)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
+Date: Sat, 18 Dec 2021 04:34:50 GTM
+Addr: ('127.0.0.1', 64115)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\index.html
+Date: Sat, 18 Dec 2021 04:34:50 GTM
+Addr: ('127.0.0.1', 64124)
+File: C:\Users\Nikita\Desktop\практикумы\6ой\404.html
