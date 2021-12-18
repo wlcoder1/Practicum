@@ -14,4 +14,5 @@
 ![image](https://user-images.githubusercontent.com/76069143/146625045-444faaf5-10ae-47a6-9c41-690f868c55b1.png)
 #### Все наши входы на сайт записываются в файл "Вход", который создается автоматически
 ![image](https://user-images.githubusercontent.com/76069143/146624983-d2714fe0-79e9-43af-af6a-6942f2bd1274.png)
-
+#### Работа сервера из консоли
+![image](https://user-images.githubusercontent.com/76069143/146625135-7d0eb764-97b3-4737-ba75-534afeab943d.png)
