@@ -15,6 +15,7 @@
 ![image](https://user-images.githubusercontent.com/76069143/146652952-041e3de9-7585-41fd-ac86-e0b3c8ebc169.png)
 ![image](https://user-images.githubusercontent.com/76069143/146652961-2d42f259-895a-449f-8f5a-feca73ac2de7.png)
 #### Поддержка защищенного соединения
-![Безымянный](https://user-images.githubusercontent.com/76069143/146653074-d3732c96-0980-46f1-9f4a-e42e418c1600.png)
+![image](https://user-images.githubusercontent.com/76069143/146653088-706d16b5-cda5-4ee1-98aa-9359a11119cd.png)
+
 
 
